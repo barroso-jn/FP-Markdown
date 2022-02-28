@@ -11,4 +11,4 @@ João Barroso
 * ...
 ---
 > Software Development Methodologies @ 2022
-![IPL](https://carme.ipleiria.pt/files/2019/12/Logotipo_Politecnico_Leiria_WHITE-1024x404.png)
+![IPL](https://www.ipleiria.pt/normasgraficas/wp-content/uploads/sites/80/2017/09/estg_h-01.jpg)
